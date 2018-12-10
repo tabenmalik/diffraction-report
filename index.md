@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Diffraction"
+description: "Diffraction and diffraction gratings in graphics."
 ---
 
 # Background
