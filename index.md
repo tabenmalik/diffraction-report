@@ -11,6 +11,12 @@ layout: default
 # Results
 
 ![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_d.gif)
+![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_n.gif)
+![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_planar.gif)
+![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_point_planar.gif)
+![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_radial.gif)
+![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_point_radial.gif)
+![diff_d]({{site.url}}{{site.baseurl}}/assets/images/DragonXL.gif)
 
 # References
 
