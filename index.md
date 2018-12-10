@@ -55,6 +55,19 @@ of light wavelengths. Computers use RGB triplets to represent color so a convers
 RGB is necessary. There are many methods of conversion but I chose to convert wavelength to the CIE 1931 
 color space and then into sRGB triplets by means of interpolating from tabulated data.
 
+In addition to the diffraction shading term, I extended the ray tracer to have tunable diffraction
+parameters. There are many constants involved in the intensity and grating equations. Here are the 
+constants and their meaning in the equation:
+*   N = the number of slits per unit area
+*   a = the distance inbetween slits 
+*   b = the width of a slit
+*   d = a+b, or also known as the total distance between the centers of each slit
+The direction of the grating is also a tunable parameter. I modified the tokenizer and parser for the
+ray tracer and included these new parameters in the ray files. 
+For the grating direction, my implementation allows for a single direction vector, a computed direction, 
+or a map of direction vectors similar to a texture map. This allows for arbitrary diffraction gratings on 
+any surface. 
+
 
 
 # Results
