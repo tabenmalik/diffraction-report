@@ -15,25 +15,25 @@ then the "wave" becomes spherical or a point source from the slit.
 # Results
 
 ![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_d.gif)
-.caption[**Fig 1**]
+**Fig 1**
 
 ![diff_n]({{site.url}}{{site.baseurl}}/assets/images/diff_n.gif)
-.caption[**Fig 1**]
+**Fig 1**
 
 ![diff_dir_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_planar.gif)
-.caption[**Fig 1**]
+**Fig 1**
 
 ![diff_point_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_point_planar.gif)
-.caption[**Fig 1**]
+**Fig 1**
 
 ![diff_dir_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_radial.gif)
-.caption[**Fig 1**]
+**Fig 1**
 
 ![diff_point_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_point_radial.gif)
-.caption[**Fig 1**]
+**Fig 1**
 
 ![DragonXL]({{site.url}}{{site.baseurl}}/assets/images/DragonXL.gif)
-.caption[**Fig 1**]
+**Fig 1**
 
 # References
 
