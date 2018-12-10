@@ -26,9 +26,16 @@ look at a CD or certain meats.
 ![Diffraction Grating]({{site.url}}{{site.baseurl}}/assets/images/diffraction_grating.png)
 ***Fig 1:** Planar wave (left) encountering a diffraction grating with many slits causing a pattern (right).*
 
-
-
 # Current Work
+
+Diffraction in graphics is an interesting problem to be solved in order to generate beautiful and 
+photorealistic materials. Since photorealism is the goal, I use a ray tracer to implement diffraction.
+The ray tracer is a custom ray tracer built as an assignment in CS354. The ray tracer is extended
+to support diffraction materials.
+
+Diffraction in a ray tracer works by simply adding a diffraction term to the Phong shading model.
+The computation of the diffraction term is derived by Emmanuel Agu and Francis Hill Jr. in their 
+paper "A Simple Method for Ray Tracing Diffraction." 
 
 # Results
 
