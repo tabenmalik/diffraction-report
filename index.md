@@ -14,7 +14,13 @@ for the wave instead of a directional source.
 ![Wave Diffraction]({{site.url}}{{site.baseurl}}/assets/images/wave_diffraction.png)
 
 Most of the diffraction we see in the world happens on materials that have many of the small
-slits. 
+slits. Materials with many small slits are called diffraction gratings. Since every slit
+becomes a point source of light, diffraction gratings create a series of point lights
+close together. The combination of all of the waves causes interference, both constructive
+and destructive, and a pattern emerges. As shown in figure 2, diffraction grating with multiple
+wavelengths of light will cause peaks of wavelengths at different viewing angles. The intensity
+of the light also falls off as the viewing angle is increased. This pattern is what we see when we
+look at a CD or certain meats.
 
 # Current Work
 
