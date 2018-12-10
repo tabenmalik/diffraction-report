@@ -10,6 +10,8 @@ layout: default
 
 # Results
 
+![diff_d](/assests/images/diff_d.gif)
+
 # References
 
 **bold**
@@ -30,12 +32,14 @@ var fun = function lang(l) {
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
 ### There's a horizontal rule below this.
 
 * * *
