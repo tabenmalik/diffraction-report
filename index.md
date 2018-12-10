@@ -2,21 +2,25 @@
 layout: default
 ---
 
-# Introduction
-
 # Background
+Diffraction is a beautiful phenomenon that causes iridescent lighting effects in materials.
+Diffraction happens when a planar wave encouters an obstacle or a slit. As shown in figure (1),
+the planar wave bends around the corners. This phonomenon is a property of any type of wave.
+However, diffraction is generally talked about in terms of light. Light is a wave and will 
+also bend around corners. If a slit decreases to a size comparable to the wavelength of light
+then the "wave" becomes spherical or a point source from the slit.
 
 # Current Work
 
 # Results
 
 ![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_d.gif)
-![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_n.gif)
-![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_planar.gif)
-![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_point_planar.gif)
-![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_radial.gif)
-![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_point_radial.gif)
-![diff_d]({{site.url}}{{site.baseurl}}/assets/images/DragonXL.gif)
+![diff_n]({{site.url}}{{site.baseurl}}/assets/images/diff_n.gif)
+![diff_dir_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_planar.gif)
+![diff_point_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_point_planar.gif)
+![diff_dir_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_radial.gif)
+![diff_point_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_point_radial.gif)
+![DragonXL]({{site.url}}{{site.baseurl}}/assets/images/DragonXL.gif)
 
 # References
 
