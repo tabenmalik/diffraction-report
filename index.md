@@ -44,8 +44,8 @@ To determine what wavelengths of light are visible we use the grating equation.
 ![Alpha Equation]({{site.url}}{{site.baseurl}}/assets/images/eq2.png)
 ![Beta Equation]({{site.url}}{{site.baseurl}}/assets/images/eq3.png)
 ***Figure 3:** Intensity equation as a function of alpha and beta. Alpha and beta are functions of the viewing angles and the wavelength of light*
-
-
+<br>
+<br>
 ![Grating Equation]({{site.url}}{{site.baseurl}}/assets/images/eq4.png)
 ***Figure 4:** The grating equation gives us the wavelength of light that peaks at a given viewing angle.*
 
