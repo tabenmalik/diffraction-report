@@ -35,7 +35,10 @@ to support diffraction materials.
 
 Diffraction in a ray tracer works by simply adding a diffraction term to the Phong shading model.
 The computation of the diffraction term is derived by Emmanuel Agu and Francis Hill Jr. in their 
-paper "A Simple Method for Ray Tracing Diffraction." 
+paper "A Simple Method for Ray Tracing Diffraction." Agu and Hill derive two important equations that are 
+called the Intensity Equation (Figure 3) and the Grating Equation (Figure 4). The intensity equation
+determines the intensity of light based on the viewing angles of a location and the wavelength of light.
+To determine what wavelengths of light are visible we use the grating equation. 
 
 ![Intensity Equation]({{site.url}}{{site.baseurl}}/assets/images/eq1.png)
 ![Alpha Equation]({{site.url}}{{site.baseurl}}/assets/images/eq2.png)
@@ -44,6 +47,12 @@ paper "A Simple Method for Ray Tracing Diffraction."
 
 ![Grating Equation]({{site.url}}{{site.baseurl}}/assets/images/eq4.png)
 ***Figure 4:** The grating equation gives us the wavelength of light that peaks at a given viewing angle.*
+
+Together, these two equations determine the total number of visible wavelengths and the total intensity 
+which can then be added into the Phong shading model. However, the two equations above are derived in terms
+of light wavelengths. Computers use RGB triplets to represent color so a conversion between wavelength to
+RGB is necessary. There are many methods of conversion but I chose to convert wavelength to the CIE 1931 
+color space and then into sRGB triplets by means of interpolating from tabulated data.
 
 # Results
 
