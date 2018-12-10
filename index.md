@@ -24,7 +24,7 @@ of the light also falls off as the viewing angle is increased. This pattern is w
 look at a CD or certain meats.
 
 ![Diffraction Grating]({{site.url}}{{site.baseurl}}/assets/images/diffraction_grating.png)
-***Fig 1:** Planar wave (left) encountering a diffraction grating with many slits causing a pattern (right).*
+***Figure 2:** Planar wave (left) encountering a diffraction grating with many slits causing a pattern (right).*
 
 # Current Work
 
@@ -36,6 +36,14 @@ to support diffraction materials.
 Diffraction in a ray tracer works by simply adding a diffraction term to the Phong shading model.
 The computation of the diffraction term is derived by Emmanuel Agu and Francis Hill Jr. in their 
 paper "A Simple Method for Ray Tracing Diffraction." 
+
+![Intensity Equation]({{site.url}}{{site.baseurl}}/assets/images/eq1.png)
+![Alpha Equation]({{site.url}}{{site.baseurl}}/assets/images/eq2.png)
+![Beta Equation]({{site.url}}{{site.baseurl}}/assets/images/eq3.png)
+***Figure 3:** Intensity equation as a function of alpha and beta. Alpha and beta are functions of the viewing angles and the wavelength of light*
+
+![Grating Equation]({{site.url}}{{site.baseurl}}/assets/images/eq4.png)
+***Figure 4:** The grating equation gives us the wavelength of light that peaks at a given viewing angle.*
 
 # Results
 
