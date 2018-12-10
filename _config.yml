@@ -3,3 +3,5 @@ description: Diffraction and diffraction gratings in graphics.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-tactile
+baseurl: "/cs354-final-report"
+url: "http://tabenmalik.github.io"
