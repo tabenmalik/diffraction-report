@@ -4,7 +4,7 @@ layout: default
 
 # Background
 Diffraction is a beautiful phenomenon that causes iridescent lighting effects in materials.
-Diffraction happens when a planar wave encouters an obstacle or a slit. As shown in figure (1),
+Diffraction happens when a planar wave encouters an obstacle or a slit. As shown in Figure 1,
 the planar wave bends around the corners. This phonomenon is a property of any type of wave.
 However, diffraction is generally talked about in terms of light. Light is a wave and will 
 also bend around corners. If a slit decreases to a size comparable to the wavelength of light
@@ -12,19 +12,21 @@ then the "wave" becomes spherical. Another way to look at it is the slit becomes
 for the wave instead of a directional source.
 
 ![Wave Diffraction]({{site.url}}{{site.baseurl}}/assets/images/wave_diffraction.png)
-***Fig 1:** Hello*
+***Figure 1:** Planar wave (left) turning into a spherical wave (right) due to a small slit.*
 
-Most of the diffraction we see in the world happens on materials that have many of the small
+Most of the diffraction we see in the world happens on materials that have many small
 slits. Materials with many small slits are called diffraction gratings. Since every slit
 becomes a point source of light, diffraction gratings create a series of point lights
 close together. The combination of all of the waves causes interference, both constructive
-and destructive, and a pattern emerges. As shown in figure 2, diffraction grating with multiple
+and destructive, and a pattern emerges. As shown in Figure 2, diffraction grating with multiple
 wavelengths of light will cause peaks of wavelengths at different viewing angles. The intensity
 of the light also falls off as the viewing angle is increased. This pattern is what we see when we
 look at a CD or certain meats.
 
 ![Diffraction Grating]({{site.url}}{{site.baseurl}}/assets/images/diffraction_grating.png)
-***Fig 1:** Hello*
+***Fig 1:** Planar wave (left) encountering a diffraction grating with many slits causing a pattern (right).*
+
+
 
 # Current Work
 
