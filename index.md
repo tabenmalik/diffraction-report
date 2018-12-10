@@ -12,6 +12,7 @@ then the "wave" becomes spherical. Another way to look at it is the slit becomes
 for the wave instead of a directional source.
 
 ![Wave Diffraction]({{site.url}}{{site.baseurl}}/assets/images/wave_diffraction.png)
+***Fig 1:** Hello*
 
 Most of the diffraction we see in the world happens on materials that have many of the small
 slits. Materials with many small slits are called diffraction gratings. Since every slit
@@ -22,6 +23,9 @@ wavelengths of light will cause peaks of wavelengths at different viewing angles
 of the light also falls off as the viewing angle is increased. This pattern is what we see when we
 look at a CD or certain meats.
 
+![Diffraction Grating]({{site.url}}{{site.baseurl}}/assets/images/diffraction_grating.png)
+***Fig 1:** Hello*
+
 # Current Work
 
 # Results
@@ -30,22 +34,22 @@ look at a CD or certain meats.
 ***Fig 1:** Hello*
 
 ![diff_n]({{site.url}}{{site.baseurl}}/assets/images/diff_n.gif)
-*Fig 1*
+***Fig 1:** Hello*
 
 ![diff_dir_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_planar.gif)
-*Fig 1*
+***Fig 1:** Hello*
 
 ![diff_point_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_point_planar.gif)
-*Fig 1*
+***Fig 1:** Hello*
 
 ![diff_dir_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_radial.gif)
-*Fig 1*
+***Fig 1:** Hello*
 
 ![diff_point_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_point_radial.gif)
-*Fig 1*
+***Fig 1:** Hello*
 
 ![DragonXL]({{site.url}}{{site.baseurl}}/assets/images/DragonXL.gif)
-*Fig 1*
+***Fig 1:** Hello*
 
 # References
 
