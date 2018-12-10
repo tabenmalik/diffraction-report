@@ -8,32 +8,35 @@ Diffraction happens when a planar wave encouters an obstacle or a slit. As shown
 the planar wave bends around the corners. This phonomenon is a property of any type of wave.
 However, diffraction is generally talked about in terms of light. Light is a wave and will 
 also bend around corners. If a slit decreases to a size comparable to the wavelength of light
-then the "wave" becomes spherical or a point source from the slit.
+then the "wave" becomes spherical. Another way to look at it is the slit becomes a point source
+for the wave instead of a directional source.
+
+![Wave Diffraction]({{site.url}}{{site.baseurl}}/assets/images/wave_diffraction.png)
 
 # Current Work
 
 # Results
 
 ![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_d.gif)
-**Fig 1**
+*Fig 1*
 
 ![diff_n]({{site.url}}{{site.baseurl}}/assets/images/diff_n.gif)
-**Fig 1**
+*Fig 1*
 
 ![diff_dir_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_planar.gif)
-**Fig 1**
+*Fig 1*
 
 ![diff_point_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_point_planar.gif)
-**Fig 1**
+*Fig 1*
 
 ![diff_dir_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_radial.gif)
-**Fig 1**
+*Fig 1*
 
 ![diff_point_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_point_radial.gif)
-**Fig 1**
+*Fig 1*
 
 ![DragonXL]({{site.url}}{{site.baseurl}}/assets/images/DragonXL.gif)
-**Fig 1**
+*Fig 1*
 
 # References
 
