@@ -18,7 +18,7 @@ for the wave instead of a directional source.
 # Results
 
 ![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_d.gif)
-*Fig 1*
+***Fig 1:** Hello*
 
 ![diff_n]({{site.url}}{{site.baseurl}}/assets/images/diff_n.gif)
 *Fig 1*
