@@ -13,6 +13,9 @@ for the wave instead of a directional source.
 
 ![Wave Diffraction]({{site.url}}{{site.baseurl}}/assets/images/wave_diffraction.png)
 
+Most of the diffraction we see in the world happens on materials that have many of the small
+slits. 
+
 # Current Work
 
 # Results
