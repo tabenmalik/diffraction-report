@@ -72,87 +72,40 @@ For the grating direction, my implementation allows for a single direction vecto
 or a map of direction vectors similar to a texture map. This allows for arbitrary diffraction gratings on 
 any surface. 
 
-
-
 # Results
 
+Figures 1-8 are some artifacts produced by the new diffraction term. Some of these artifacts are
+demonstrating the change of a single parameter or differences in light. The dragon is simply showing
+how diffraction can now be applied to any mesh.
+
 ![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_d.gif)
-***Fig 1:** Hello*
+***Figure 5:** Plate with diffraction grating. This shows an incremental change in the parameter d.*
 
 ![diff_n]({{site.url}}{{site.baseurl}}/assets/images/diff_n.gif)
-***Fig 1:** Hello*
+***Figure 6:** Plate with diffraction grating. This shows an incremental change in the parameter n.*
 
 ![diff_dir_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_planar.gif)
-***Fig 1:** Hello*
+***Figure 7:** Circular plate with a horizontal grating and a directional light.*
 
 ![diff_point_planar]({{site.url}}{{site.baseurl}}/assets/images/diff_point_planar.gif)
-***Fig 1:** Hello*
+***Figure 8:** Circular plate with a horizontal grating and a point light.*
 
 ![diff_dir_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_dir_radial.gif)
-***Fig 1:** Hello*
+***Figure 9:** Circular plate with a radial grating and a directional light.*
 
 ![diff_point_radial]({{site.url}}{{site.baseurl}}/assets/images/diff_point_radial.gif)
-***Fig 1:** Hello*
+***Figure 10:** Circular plate with a radial grating and a point light. This is the closest resemblence to diffraction on a CD.*
 
 ![DragonXL]({{site.url}}{{site.baseurl}}/assets/images/DragonXL.gif)
-***Fig 1:** Hello*
+***Figure 11:** Diffraction grating on a trimesh of a dragon.*
 
 # References
+Agu, E., & S. Hill Jr, F. (2003). A Simple Method for Ray Tracing Diffraction (Vol. 2669, pp. 336–345). https://doi.org/10.1007/3-540-44842-X_35
 
-**bold**
-_italic_
-~~strikethrough~~
-[Text link](link.html)
-> Blockquote
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Colour Rendering of Spectra. (n.d.). Retrieved November 17, 2018, from http://www.fourmilab.ch/documents/specrend/
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Diffraction Grating. (n.d.). Retrieved December 5, 2018, from http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/grating.html
 
-### There's a horizontal rule below this.
-
-* * *
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+CIE Color System. (n.d.). Retrieved December 10, 2018, from http://hyperphysics.phy-astr.gsu.edu/hbase/vision/cie.html
 
 
