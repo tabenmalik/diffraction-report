@@ -10,7 +10,7 @@ layout: default
 
 # Results
 
-![diff_d]({{site.url}}{{site.baseurl}}/assets/images/zip-icon.png)
+![diff_d]({{site.url}}{{site.baseurl}}/assets/images/diff_d.gif)
 
 # References
 
