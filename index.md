@@ -10,7 +10,7 @@ layout: default
 
 # Results
 
-![diff_d](/assests/images/diff_d.gif)
+![diff_d](assests/images/diff_d.gif)
 
 # References
 
