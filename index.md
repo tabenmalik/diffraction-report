@@ -45,6 +45,7 @@ To determine what wavelengths of light are visible we use the grating equation.
 ![Beta Equation]({{site.url}}{{site.baseurl}}/assets/images/eq3.png)
 ***Figure 3:** Intensity equation as a function of alpha and beta. Alpha and beta are functions of the viewing angles and the wavelength of light*
 
+
 ![Grating Equation]({{site.url}}{{site.baseurl}}/assets/images/eq4.png)
 ***Figure 4:** The grating equation gives us the wavelength of light that peaks at a given viewing angle.*
 
@@ -53,6 +54,8 @@ which can then be added into the Phong shading model. However, the two equations
 of light wavelengths. Computers use RGB triplets to represent color so a conversion between wavelength to
 RGB is necessary. There are many methods of conversion but I chose to convert wavelength to the CIE 1931 
 color space and then into sRGB triplets by means of interpolating from tabulated data.
+
+
 
 # Results
 
