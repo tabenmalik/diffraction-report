@@ -1,4 +1,4 @@
 show_downloads: false
-baseurl: "/cs354-final-report"
+baseurl: "/diffraction-report"
 url: "http://tabenmalik.github.io"
 theme: jekyll-theme-tactile
