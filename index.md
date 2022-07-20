@@ -3,6 +3,10 @@ layout: default
 title: "Diffraction"
 description: "Diffraction and diffraction gratings in graphics."
 ---
+*Note: To provide some context, this report was for a final project in an undergraduate computer graphics course at the University of Texas at Austin.
+The final project was open-ended and I chose to extend a previous ray tracer assignment with simulated reflective diffraction grating.
+A C++ ray tracer framework was provided by the course, then completed and extended by me. The ray tracer code remains private to 
+prevent scholastic dishonesty by future students who may stumble upon my project. This report only shows the results of my efforts.*
 
 # Background
 Diffraction is a beautiful phenomenon that causes iridescent lighting effects in materials.
